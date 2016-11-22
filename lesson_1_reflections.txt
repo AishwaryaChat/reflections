@@ -46,3 +46,5 @@ How can you use the commands git log and git diff to view the history of
 How might using version control make you more confident to make changes that could break something?
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
